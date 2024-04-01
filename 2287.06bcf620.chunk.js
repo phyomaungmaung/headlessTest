@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkheadlesscms=self.webpackChunkheadlesscms||[]).push([[2287],{62287:e=>{e.exports=JSON.parse('{"label.draft":"\u4E0B\u66F8\u304D\u30D7\u30EC\u30D3\u30E5\u30FC\u3092\u958B\u304F","label.button":"\u30E9\u30A4\u30D6\u30D7\u30EC\u30D3\u30E5\u30FC\u3092\u958B\u304F"}')}}]);
